@@ -13,6 +13,7 @@
 		023457D82B93C6CA00FCC07E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 023457D72B93C6CA00FCC07E /* Preview Assets.xcassets */; };
 		0248729F2B941AA900B76B63 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0248729E2B941AA900B76B63 /* SettingsView.swift */; };
 		027380322B93DA5E001AAAD2 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 027380312B93DA5E001AAAD2 /* HomeView.swift */; };
+		02C93E8D2B94FF41004CC036 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C93E8C2B94FF41004CC036 /* ProfileView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		023457D72B93C6CA00FCC07E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0248729E2B941AA900B76B63 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		027380312B93DA5E001AAAD2 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		02C93E8C2B94FF41004CC036 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				023457D12B93C6C900FCC07E /* ContentView.swift */,
 				027380312B93DA5E001AAAD2 /* HomeView.swift */,
 				0248729E2B941AA900B76B63 /* SettingsView.swift */,
+				02C93E8C2B94FF41004CC036 /* ProfileView.swift */,
 				023457D32B93C6CA00FCC07E /* Assets.xcassets */,
 				023457D52B93C6CA00FCC07E /* SwiftfulSourceControl.entitlements */,
 				023457D62B93C6CA00FCC07E /* Preview Content */,
@@ -147,6 +150,7 @@
 			files = (
 				027380322B93DA5E001AAAD2 /* HomeView.swift in Sources */,
 				0248729F2B941AA900B76B63 /* SettingsView.swift in Sources */,
+				02C93E8D2B94FF41004CC036 /* ProfileView.swift in Sources */,
 				023457D22B93C6C900FCC07E /* ContentView.swift in Sources */,
 				023457D02B93C6C900FCC07E /* SwiftfulSourceControlApp.swift in Sources */,
 			);
