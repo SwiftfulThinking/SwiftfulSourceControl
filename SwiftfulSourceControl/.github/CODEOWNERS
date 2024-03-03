@@ -1,0 +1,8 @@
+# CODEOWNERS file
+# Lines starting with '#' are comments.
+# Each line is a file pattern followed by one or more owners.
+
+# The following example assumes 'swiftfulthinking' should be the code owner for specific directories and file types.
+
+# To make 'swiftfulthinking' the default owner for everything in the repo
+*       @SwiftfulThinking
