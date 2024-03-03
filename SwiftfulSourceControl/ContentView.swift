@@ -44,7 +44,7 @@ struct ContentView: View {
                         Image(systemName: "magnifyingglass")
                             .font(.largeTitle)
                             .foregroundStyle(.tint)
-                        Text("Some New Title!!")
+                        Text("Swiftful Thinking!!!!!!")
                         
                         Button("Click me!") {
                             
